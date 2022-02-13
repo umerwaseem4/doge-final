@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "dogefinal",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "E:\\Development\\portfolio project\\doge-predictor\\amplify\\backend\\api\\dogefinal\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}

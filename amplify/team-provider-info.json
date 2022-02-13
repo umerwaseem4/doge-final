@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dogefinal-dev-204131-authRole",
+      "UnauthRoleArn": "arn:aws:iam::854920608198:role/amplify-dogefinal-dev-204131-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::854920608198:role/amplify-dogefinal-dev-204131-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-dogefinal-dev-204131-deployment",
+      "UnauthRoleName": "amplify-dogefinal-dev-204131-unauthRole",
+      "StackName": "amplify-dogefinal-dev-204131",
+      "StackId": "arn:aws:cloudformation:us-west-2:854920608198:stack/amplify-dogefinal-dev-204131/6e8fb7a0-8ce3-11ec-a940-020ef0b16619",
+      "AmplifyAppId": "dskcvajd0nkn7"
+    }
+  }
+}
